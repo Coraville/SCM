@@ -8,3 +8,5 @@ REPOSITORIO PARA AULA
 - Convide um colaborador
 
   > "Todo mundo odeia aula sabado"
+
+  > "E todos amam domingo"
