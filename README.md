@@ -9,4 +9,4 @@ REPOSITORIO PARA AULA
 
   > "Todo mundo odeia aula sabado"
 
-  > "E todos amam domingo"
+  > "E todos amam dommingo e verdade"
